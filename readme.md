@@ -1,4 +1,5 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"> Blog</p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<h1 align="center">Blog</h1>
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
